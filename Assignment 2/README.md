@@ -1,1 +1,1 @@
-This is my second assignment for Artificial Intellegence
+This is my second assignment for class CSc 448 - Artificial Intelligence
