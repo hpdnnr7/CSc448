@@ -1,3 +1,3 @@
 # CSc448
 
-This is my second assignment for class CSc 448 - Artificial Intelligence
+These are my second assignments for class CSc 448 - Artificial Intelligence
